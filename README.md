@@ -40,8 +40,7 @@
 --- 
   
 [![S9HN's GitHub stats](https://github-readme-stats.vercel.app/api?username=s9hn&show_icons=true&theme=radical)](https://github.com/s9hn/github-readme-stats)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s9hn&layout=compact&theme=radical)
+ 
 
    </div>
  
