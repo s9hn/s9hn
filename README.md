@@ -1,4 +1,4 @@
-## Hi There! I'm SEHUN KIM!🙌 
+## Hi There! I'm SEHUN KIM!🙌                                            [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/s9hn)](https://hits.seeyoufarm.com)
   
 😎Who am I ? 
 
@@ -33,9 +33,6 @@
 ### 💻 Tech Blog
   <a href="https://s2ehun.tistory.com//"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://s2ehun.tistory.com/"/></a>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/s9hn)](https://hits.seeyoufarm.com)
-  
- 
 
 --- 
   
