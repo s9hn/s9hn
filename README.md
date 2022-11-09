@@ -12,7 +12,7 @@
 
 <div align=center>
   
-### 🪄 Platforms & Languages
+### 🚩 Platforms & Languages
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=Visual%20Studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
