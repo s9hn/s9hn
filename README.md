@@ -5,7 +5,6 @@
 - Name : Sehun Kim
 - Birth : 1998
 - I'm learning how to develop Android  
-- More ? 👉 [Here !](https://cheddar-liquid-051.notion.site/SEHUN-KIM-c3f97f60bed34ddd96dcf14124383919)
 ---
   
 ## 💪🏻 Skills
