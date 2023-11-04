@@ -8,20 +8,14 @@ If you want, Feel free to contact [Me](https://github.com/s9hn/github-readme-sta
     
 ### 📌 Projects
 
-- Product Owner - 플투(PlayTogether): 대학교 및 소모임 단위의 번개매칭 서비스  
-- Android Lead Developer - Recordream: 꿈 기록 아카이빙 서비스 (22.07 ~)
-- Kotlin Multiplatform Developer
-- Android Developer
+- Kotlin Multiplatform Developer - [Campus](https://github.com/sujin9/woowa_campus_android): 우아한테크코스 출결&공지 서비스 (ing)
+- Android Lead Developer - [Recordream](https://github.com/TeamRecorDream/RecorDream-AOS): 꿈 기록 아카이빙 서비스 (ing)
+- Android Developer - [201(Created)](https://github.com/201-Created-Study/2023-yigongil): 프로그래밍 스터디 관리 및 모집 커뮤니티 서비스 (ing)
 
-- Android Developer
-- Android Developer
-- Android Developer
-- Android Developer
-Android Developer
-Android Developer
-· 색깔로 정해지는 N개의 팀! 미션을 통해 컬러 메이트를 찾아라 ‘너무색’ 서비스 Android Developer
-· 나만의 미디어 감상 아카이빙 서비스 ‘BeforeGet’ 팀 Android Developer
-WE SOPT 29th, APP-JAM ‘BeforeGet’ 팀 Android Developer
-THE SOPT 30th, SOPT-TERM *플투* 팀 메인PM
-THE SOPT 30th, SOPKATHON ‘*23#’ 팀 Android Developer
- THE SOPT 30th, APP-JAM ‘RecorDream’ 팀 Android Developer
+<br>
+
+- Android Lead Developer - [위잉위잉](https://github.com/SOPT32-SOPKATHON/sopkathon-android): 모기지수 공공API를 활용한 여름철 모기지수 알림 서비스
+- Android Developer - [*23#](https://github.com/SOPKATHON-LUCKY-SEVEN/S23H-AOS): 익명으로 전하는 감사 메신저 서비스
+- Product Owner - [플투(PlayTogether)](https://cheddar-liquid-051.notion.site/PLAY-TOGETHER-b88141f8be1344c2a8ed365951e4fefc?pvs=4): 대학교 및 소모임 단위의 번개매칭 커뮤니티 서비스
+- Android Developer - [BeforeGet](https://github.com/Team-Beforeget/Beforeget-Android): 나만의 미디어 감상 아카이빙 서비스
+- Android Developer - [너무슨색이야](https://github.com/TeamWhatColor/WhatColorAndroid): 색깔로 정해지는 N개의 팀! 미션을 통해 컬러 메이트를 찾아라! 엔터테인먼트 서비스
