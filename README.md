@@ -1,12 +1,12 @@
 
 
-### 👋 Hey There! 
+## 👋 Hey There! 
 If you want, Feel free to contact [Me](https://github.com/s9hn/github-readme-stats](https://www.notion.so/SEHUN-KIM-c3f97f60bed34ddd96dcf14124383919)https://www.notion.so/SEHUN-KIM-c3f97f60bed34ddd96dcf14124383919)
-### 💻 Tech Blog
+## 💻 Tech Blog
 
   <a href="https://s2ehun.tistory.com//"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://s2ehun.tistory.com/"/></a>
     
-### 📌 Projects
+## 📌 Projects
 
 - Kotlin Multiplatform Developer - [Campus](https://github.com/sujin9/woowa_campus_android) : 우아한테크코스 출결&공지 서비스 (ing)
 - Android Lead Developer - [Recordream](https://github.com/TeamRecorDream/RecorDream-AOS) : 꿈 기록 아카이빙 서비스 (ing)
