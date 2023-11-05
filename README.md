@@ -1,7 +1,7 @@
 
 
 ## 👋 Hey There! 
-I'm an Android Developer.
+I'm an Android Developer.  
 If you want, Feel free to contact [Me](https://github.com/s9hn/github-readme-stats](https://www.notion.so/SEHUN-KIM-c3f97f60bed34ddd96dcf14124383919)https://www.notion.so/SEHUN-KIM-c3f97f60bed34ddd96dcf14124383919)
 ## 💻 Tech Blog
 
