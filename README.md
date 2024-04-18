@@ -14,7 +14,7 @@ Feel free to contact me, if you want.
 
 <br>
 
-- Kotlin Multiplatform - [Campus](https://github.com/sujin9/woowa_campus_android) : 우아한테크코스 출결&공지 서비스
+- Android - [Campus](https://github.com/sujin9/woowa_campus_android) : 우아한테크코스 출결&공지 서비스
 - Android - [201(Created)](https://github.com/201-Created-Study/2023-yigongil) : 프로그래밍 스터디 관리 및 모집 커뮤니티 서비스
 - Android - [마이미라클타임](https://github.com/do-sopkathon-android-2/android-2-client) : 개인 맞춤형 타임 테이블 제공 서비스
 - Android - [위잉위잉](https://github.com/SOPT32-SOPKATHON/sopkathon-android) : 모기지수 공공API를 활용한 여름철 모기지수 알림 서비스
