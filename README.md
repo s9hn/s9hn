@@ -17,6 +17,7 @@ Feel free to contact me, if you want.
 - Android - [BeforeGet](https://github.com/Team-Beforeget/Beforeget-Android) : 나만의 미디어 감상 아카이빙 서비스
       
 ## 🏃‍♀️ Hackathon
+- Android - [럭키럭키 체인지](https://github.com/sopkathon-android-team-4/Sopkathon-Android) : 불행한 상황들을 적으면 럭키한 초긍정적 사고로 변환해주는 엔터테인먼트 서비스
 - Android - [마이미라클타임](https://github.com/do-sopkathon-android-2/android-2-client) : 개인 맞춤형 타임 테이블 제공 서비스
 - Android - [위잉위잉](https://github.com/SOPT32-SOPKATHON/sopkathon-android) : 모기지수 공공API를 활용한 여름철 모기지수 알림 서비스
 - Android - [*23#](https://github.com/SOPKATHON-LUCKY-SEVEN/S23H-AOS) : 익명으로 전하는 감사 메신저 서비스
