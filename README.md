@@ -3,10 +3,7 @@
 ## 👋 Hey There! 
 I'm an Android Developer.  
 Feel free to contact me, if you want.
-## 💻 Tech Blog
 
-  <a href="https://s2ehun.tistory.com//"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://s2ehun.tistory.com/"/></a>
-    
 ## 📌 Projects
 - Android - [Websoso](https://github.com/Team-WSS/WSS-Android) : 웹소설도 소설이다, 나만의 웹소설 기록 서비스 (ing)
 - Android - [COSMO](https://github.com/s9hn/COSMO) : AI기반 개별적 맞춤 학습을 통한 면접 대비 교육 모바일 서비스 (ing)
