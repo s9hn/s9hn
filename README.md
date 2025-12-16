@@ -1,10 +1,12 @@
 
 
 ## 👋 Hey There! 
+## 🏢 Experiences
+- Android - [샤플앤컴퍼니](https://www.shoplworks.com/) (ing)
 
 ## 📌 Projects
-- Android, PM - [Websoso](https://github.com/Team-WSS/WSS-Android) : 웹소설도 소설이다, 나만의 웹소설 기록 서비스 (ing)
-- Android - [COSMO](https://github.com/Team-Cosmo/Cosmo-Android) : AI기반 개별적 맞춤 학습을 통한 면접 대비 교육 모바일 서비스 (ing)
+- Android, PM - [Websoso](https://github.com/Team-WSS/WSS-Android) : 웹소설도 소설이다, 나만의 웹소설 기록 서비스 
+- Android - [COSMO](https://github.com/Team-Cosmo/Cosmo-Android) : AI기반 개별적 맞춤 학습을 통한 면접 대비 교육 모바일 서비스
 - Android - [SOPT](https://github.com/sopt-makers/sopt-android) : SOPT 공식 앱 서비스
 - Android - [Recordream](https://github.com/TeamRecorDream/RecorDream-AOS) : 꿈 기록 아카이빙 서비스
 - Android - [Campus](https://github.com/sujin9/woowa_campus_android) : 우아한테크코스 출결&공지 서비스
@@ -23,7 +25,7 @@
 - Android - [*23#](https://github.com/SOPKATHON-LUCKY-SEVEN/S23H-AOS) : 익명으로 전하는 감사 메신저 서비스
 - Android - [너무슨색이야](https://github.com/TeamWhatColor/WhatColorAndroid) : 색깔로 정해지는 N개의 팀! 미션을 통해 컬러 메이트를 찾아라! 엔터테인먼트 서비스  
 
-## 📗 Experiences
+## 📗 Activities
 - 카카오테크캠퍼스 - [안드로이드 실습코치](https://www.kakaotechcampus.com/)
 - Nextstep - [학습 테스트로 배우는 Compose 2기](https://github.com/s9hn/Archiving-nextstep-compose)
 - 우아한테크코스 - [5기 안드로이드 파트
