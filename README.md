@@ -2,12 +2,12 @@
 
 ## 👋 Hey There! 
 ## 🏢 Experiences
-- Android - [샤플앤컴퍼니](https://www.shoplworks.com/) (ing)
+- Android - [샤플앤컴퍼니](https://www.shoplworks.com/) (ing)(cc. [@san-gun](https://github.com/san-gun))
 
 ## 💾 Products
 - [figma-compaction-mcp](https://github.com/s9hn/figma-compaction-mcp) : Figma 전체 payload 대신 축약된 결과를 호출한 에이전트에 반환해주는 MCP 서버
 
-## 📌 Projects
+## 📌 Team Projects
 - Android, PM - [Websoso](https://github.com/Team-WSS/WSS-Android) : 웹소설도 소설이다, 나만의 웹소설 기록 서비스 
 - Android - [COSMO](https://github.com/Team-Cosmo/Cosmo-Android) : AI기반 개별적 맞춤 학습을 통한 면접 대비 교육 모바일 서비스
 - Android - [SOPT](https://github.com/sopt-makers/sopt-android) : SOPT 공식 앱 서비스
